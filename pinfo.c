@@ -1,8 +1,8 @@
 /*************************************************************************** */ 
 //Author: Vincent Vassallo
-//Filename: finfo.c
+//Filename: pinfo.c
 //Section: 111
-//Description: File to perform Information Maintenance System Calls
+//Description: File to retrieve process information
 //************************************************************************** */
 #define _GNU_SOURCE
 #include <stdio.h>
