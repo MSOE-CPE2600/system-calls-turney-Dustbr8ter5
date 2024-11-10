@@ -1,5 +1,6 @@
 /*************************************************************************** */ 
 //Author: Vincent Vassallo
+//Assignment: Lab 9 System Calls
 //Filename: pinfo.c
 //Section: 111
 //Description: File to retrieve process information

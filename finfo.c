@@ -1,5 +1,6 @@
 /*************************************************************************** */ 
 //Author: Vincent Vassallo
+//Assignment: Lab 9 System Calls
 //Filename: finfo.c
 //Section: 111
 //Description: Program to retrieve info on a file
